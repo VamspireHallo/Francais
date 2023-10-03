@@ -1,6 +1,6 @@
 # Francais
 
-Program designed for logic based testing of vocabulary of the basic Frnech language.
+Program designed for logic based testing of vocabulary of the basic French language.
 
 Utilizing lesson plans from French 1,2,3,4a
 
