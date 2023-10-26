@@ -8,3 +8,7 @@ Beginning
 Intermediate
 Advanced
 
+Use 
+- fill in the blank
+- match definition
+- true or false
